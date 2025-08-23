@@ -95,7 +95,7 @@
       {
         question: "🎮 Que fais-tu pendant ton temps libre ?",
         options: ["Sport", "Jeux vidéo", "Lecture", "Dormir" , "Jardinage "],
-        scores: [2, 3, 1, 4 , 32 ]
+        scores: [2, 3, 1, 4 , 78 ]
       } ,
        {
         question: " tu preferes sortir ?",
@@ -138,7 +138,7 @@
       if (totalScore <= 6) resultText = "😇 Tu es calme et organisé !";
       else if (totalScore <= 8) resultText = "🔥 Tu es énergique et créatif !";
       else if (totalScore <= 16) resultText = "🌌 Tu es mystérieux et inspirant !";
-      else if (totalScore = 32 ) resultText = "🌱 Tu es tonton bouhou le jardinier !";
+      else if (totalScore > 78 ) resultText = "🌱 Tu es tonton bouhou le jardinier !";
       else resultText = " tu es qui toiiiii je t'ai pas encore dans mon syteme :( )"
 
       quiz.innerHTML = `<p class='result'>Résultat : <br>${resultText}</p>`;
@@ -151,4 +151,5 @@
     <h5> 🌙 Hi liticia was here 🌙 </h5>
   </footer>
 </html>
+
 
