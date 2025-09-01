@@ -1,4 +1,4 @@
-# 🚀 Quiz - Test de personnalité
+#  Quiz - Test de personnalité
 
 Un petit quiz interactif en **HTML / CSS / JavaScript** pour découvrir ta personnalité ✨  
 
