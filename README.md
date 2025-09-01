@@ -4,6 +4,6 @@ Un petit quiz interactif en **HTML / CSS / JavaScript** pour découvrir ta perso
 
 
 ##  Lien vers le site
-[https://tonpseudo.github.io/quiz-personnalite/](https://liticia-arezki.github.io/quiz-test-de-personnalit-/
+ [Voir le quiz en ligne](https://tonpseudo.github.io/quiz-test-personnalite/)
 
 
